@@ -5,4 +5,4 @@
 本次上传内容解析w3g前68字节，包含了w3g文件基本信息详细内容点击
 * https://github.com/XxYyKk/War3Replay-w3g/blob/master/w3gHeader/readme.txt <br>
 
- ![前68bit](https://github.com/XxYyKk/War3Replay-w3g/w3gHeader/img/header.png）
+ ![image](https://github.com/XxYyKk/War3Replay-w3g/w3gHeader/img/header.png）
